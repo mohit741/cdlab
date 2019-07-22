@@ -1,0 +1,8 @@
+void main() {
+ cout<< "Hello World";
+	int i= 345;
+	float t= 4.5;
+	for( int i= 0; i< n; i++ )
+		cout<<i;
+	return;
+}
